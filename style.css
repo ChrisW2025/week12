@@ -1,0 +1,10 @@
+#getNumber {
+    font-size: 22px;
+    text-align: center;
+
+}
+.inputNumberBox {
+    display: flex;
+    justify-content: center;
+        
+}
